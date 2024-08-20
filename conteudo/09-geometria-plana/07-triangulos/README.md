@@ -1,10 +1,12 @@
-<h1 align="center"><sup>&mdash; { Módulo 10 } &mdash;</sup><br>Geometria Plana</h1>
+<h1 align="center"><sup>&mdash;&mdash;{ Módulo 10 }&mdash;&mdash;</sup><br>Geometria Plana</h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h5 align="center">Atualizado em: 30/04/2024</h5>
 
 &nbsp;
 
-## Capítulo ? &ndash; Triângulos
+<h2 align="center">Capítulo ? &ndash; Triângulos</h2>
+
+&nbsp;
 
 ### Sumário
 

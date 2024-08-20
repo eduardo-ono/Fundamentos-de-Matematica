@@ -6,21 +6,27 @@
 
 ## Descrição
 
-&emsp; &emsp; O presente repositório aborda os Fundamentos de Matemática Elementar, a nível do Ensino Médio. Embora básico para todas os cursos da área de exatas, o conteúdo foi direcionado para alunos de cursos de Computação.
+&emsp; &emsp; O presente repositório aborda os Fundamentos de Matemática Elementar a nível do Ensino Médio. Embora básico para todas os cursos da área de exatas, o conteúdo foi direcionado para alunos de cursos de Computação.
 
-&emsp; &emsp; Os conteúdo foi dividido em módulos e cada módulo dividido em capítulos. Cada capítulo foi escrito e disponibilizado no formato Jupyter Notebook, apresentando gráficos e ilustrações criados em linguagem Python.
+&emsp; &emsp; Os conteúdo foi dividido em módulos e cada módulo dividido em capítulos. Cada capítulo foi escrito e disponibilizado no formato Jupyter Notebook, apresentando gráficos e ilustrações criados na linguagem Python.
 
 &nbsp;
 
 ## Módulos
 
-1. [__Conjuntos e Funções__](./conteudo/01-conjuntos-e-funcoes/)
+1. [__Noções de Lógica Matemática__](./conteudo/01-logica-matematica/)
+
+1. [__Conjuntos__](./conteudo/01-conjuntos/)
+
+1. [__Funções__](./conteudo/03-funcoes/)
 
 1. [__Exponenciais e Logaritmos__](./conteudo/02-exponenciais-logaritmos/)
 
 1. [__Trigonometria__](./conteudo/03-trigonometria/)
 
-1. [__Sequências, Matrizes, Determinantes e Sistemas__](./conteudo/04-sequencias-matrizes-determinantes-sistemas/)
+1. [__Sequências e Séries__](./conteudo/)
+
+1. [__Matrizes, Determinantes e Sistemas__](./conteudo/04-sequencias-matrizes-determinantes-sistemas/)
 
 1. [__Combinatória e Probabilidade__](./conteudo/05-combinatoria-probabilidade/)
 
