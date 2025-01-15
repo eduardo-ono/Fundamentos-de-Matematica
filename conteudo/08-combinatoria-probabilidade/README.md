@@ -1,8 +1,6 @@
 
 <h1 align="center"><sup>--- {Módulo 5} ---</sup><br>Combinatória e Probabilidade</h1>
-
 <h3 align="center">Prof. Eduardo Ono</h3>
-
 <h5 align="center">09.04.2024</h5>
 
 &nbsp;
