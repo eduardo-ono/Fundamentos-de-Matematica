@@ -22,7 +22,7 @@
 
 1. [__Funções__](./conteudo/03-funcoes/)
 
-1. [__Exponenciais e Logaritmos__](./conteudo/04-exponenciais-logaritmos/)
+1. [__Exponenciais e Logaritmos__](./conteudo/04-exponenciais-e-logaritmos/)
 
 1. [__Trigonometria__](./conteudo/05-trigonometria/)
 
