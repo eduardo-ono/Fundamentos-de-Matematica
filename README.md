@@ -26,27 +26,27 @@
 
 1. [__Trigonometria__](./conteudo/05-trigonometria/)
 
-1. [__Sequências e Séries__](./conteudo/06-sequencias-series/)
+1. [__Sequências e Séries__](./conteudo/06-sequencias-e-series/)
 
-1. [__Matrizes, Determinantes e Sistemas__](./conteudo/07-matrizes-determinantes-sistemas/)
+1. [__Matrizes, Determinantes e Sistemas__](./conteudo/07-matrizes-determinantes-e-sistemas/)
 
-1. [__Combinatória e Probabilidade__](./conteudo/08-combinatoria-probabilidade/)
+1. [__Combinatória e Probabilidade__](./conteudo/08-combinatoria-e-probabilidade/)
 
-1. [__Números Complexos, Polinômios e Equações__](./conteudo/09-complexos-polinomios-equacoes/)
+1. [__Números Complexos, Polinômios e Equações__](./conteudo/09-complexos-polinomios-e-equacoes/)
 
-1. [__Noções de Limites, Derivadas e Integrais__](./conteudo/11-limites-derivadas-integrais/)
+1. [__Noções de Limites, Derivadas e Integrais__](./conteudo/10-limites-derivadas-e-integrais/)
 
-1. [__Geometria Plana__](./conteudo/12-geometria-plana/)
+1. [__Geometria Plana__](./conteudo/11-geometria-plana/)
 
-1. [__Geometria Espacial__](./conteudo/13-geometria-espacial/)
+1. [__Geometria Espacial__](./conteudo/12-geometria-espacial/)
 
-1. [__Geometria Analítica__](./conteudo/10-geometria-analitica/)
+1. [__Geometria Analítica__](./conteudo/13-geometria-analitica/)
 
 1. [__Estatística Básica__](./conteudo/14-estatistica-basica/)
 
 1. [__Matemática Financeira__](./conteudo/15-matematica-financeira/)
 
-1. [__Matemática Computacional__](./conteudo/16-metematica-computacional/)
+1. [__Matemática Computacional__](./conteudo/16-matematica-computacional/)
 
 &nbsp;
 
