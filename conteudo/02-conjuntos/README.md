@@ -11,13 +11,16 @@
 
 ## Sumário
 
-* Definição
-* Operações de Conjuntos
+* Conjuntos
+  * Conceituação
+  * [Exercícios Resolvidos](./02-conjuntos/exercicios-resolvidos.md)
+
 * Conjuntos Numéricos
-  * Conjunto dos Números Naturais ($\N$)
-  * Conjunto dos Números Inteiros ($\Z$)
-  * Conjunto dos Números Racionais
-  * Conjunto dos Números Irracionais
-  * Conjunto dos Números Reais ($\R$)
+  * Conjunto dos Números Naturais ($\mathbb{N}$)
+  * Conjunto dos Números Inteiros ($\mathbb{Z}$)
+  * Conjunto dos Números Racionais ($\mathbb{Q}$)
+  * Conjunto dos Números Irracionais ($\mathbb{I}$)
+  * Conjunto dos Números Reais ($\mathbb{R}$)
+  * Exercícios Resolvidos
 
 &nbsp;
