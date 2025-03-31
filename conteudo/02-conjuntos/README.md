@@ -5,17 +5,19 @@
 
 <h1 align="center">Conjuntos</h1>
 <h4 align="center">Prof. Eduardo Ono</h4>
-<h6 align="center">Atualizado em: 10/01/2025</h6>
+<h6 align="center">Atualizado em: 29/03/2025</h6>
 
 &nbsp;
 
 ## Sumário
 
-* Conjuntos
+* ### Conjuntos
+
   * Conceituação
   * [Exercícios Resolvidos](./02-conjuntos/exercicios-resolvidos.md)
 
-* Conjuntos Numéricos
+* ### Conjuntos Numéricos
+
   * Conjunto dos Números Naturais ($\mathbb{N}$)
   * Conjunto dos Números Inteiros ($\mathbb{Z}$)
   * Conjunto dos Números Racionais ($\mathbb{Q}$)
