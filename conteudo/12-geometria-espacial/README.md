@@ -11,9 +11,7 @@
 1. Noções e Proposições Primitivas
 1. Paralelismo
 1. Perpendicularidade
-1. Diedros
-1. Triedros
-1. Poliedros
+1. Diedros, Triedros e Poliedros
 1. Prisma
     1. Cubo
 1. Pirâmide
