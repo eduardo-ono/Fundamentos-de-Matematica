@@ -14,9 +14,9 @@
 $$
 \left\lbrace
   \begin{array}{ccccccc}
-  x & + & y & & & = & 2 \\
-  2x & - & y & + & 3z & = & 4 \\
-  -x & & & + & z & = & 0
+  \ x & + & y & & & = & 2 \\
+  \ 2x & - & y & + & 3z & = & 4 \\
+  \ -x & & & + & z & = & 0
   \end{array}
 \right.
 $$
