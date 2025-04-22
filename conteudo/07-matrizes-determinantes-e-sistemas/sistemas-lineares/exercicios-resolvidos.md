@@ -11,14 +11,14 @@
 
 * [exr-2022-05-25](./exercicios-resolvidos/exr-2022-05-25.ipynb) : &nbsp; Resolva o sistema linear a seguir pelo método da eliminação de Gauss (ou método de Escalonamento):
 
-$
-\left \\{
+$$
+\left \{
   \begin{array}{ccccccc}
   x & + & y & & & = & 2 \\
   2x & - & y & + & 3z & = & 4 \\
   -x & & & + & z & = & 0
   \end{array}
 \right.
-$
+$$
 
 &nbsp;
