@@ -9,7 +9,9 @@
 
 &nbsp;
 
-* [exr-2022-05-25](./exercicios-resolvidos/exr-2022-05-25.ipynb) : &nbsp; Resolva o sistema linear $
+* [exr-2022-05-25](./exercicios-resolvidos/exr-2022-05-25.ipynb) : &nbsp; Resolva o sistema linear a seguir pelo método da eliminação de Gauss (ou método de Escalonamento):
+
+$$
 \left\lbrace
   \begin{array}{ccccccc}
   x & + & y & & & = & 2 \\
@@ -17,6 +19,6 @@
   -x & & & + & z & = & 0
   \end{array}
 \right.
-$ pelo método da eliminação de Gauss (ou método de Escalonamento).
+$$
 
 &nbsp;
