@@ -13,7 +13,7 @@
 
 $$
 \left\lbrace
-  \begin{array}{ccccccc}
+  \begin{array}{rcrcrcr}
   \ x & + & y & & & = & 2 \\
   \ 2x & - & y & + & 3z & = & 4 \\
   \ -x & & & + & z & = & 0
