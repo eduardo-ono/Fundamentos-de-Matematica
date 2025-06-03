@@ -16,9 +16,29 @@
 
 ## Módulos
 
+## Sumário
+
+<details>
+  <summary>
+    <h3 style="margin:0">1. Noções de Lógica Matemática</h3>
+  </summary>
+  <section markdown="1">
+
 1. [__Noções de Lógica Matemática__](./conteudo/01-logica-matematica/)
 
+  </section>
+</details>
+
+<details>
+  <summary>
+    <h3 style="margin-top:0; margin-bottom:10px">2. Conjuntos</h3>
+  </summary>
+  <section markdown="1">
+
 1. [__Conjuntos__](./conteudo/02-conjuntos/)
+
+  </section>
+</details>
 
 1. [__Funções__](./conteudo/03-funcoes/)
 
