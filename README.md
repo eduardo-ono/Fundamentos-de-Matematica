@@ -60,13 +60,15 @@
 
 <details>
   <summary>
-    <h3 style="margin-top:0; margin-bottom:10px">12. Geometria Espacial</h3>
+    <h3 style="margin-top:0; margin-bottom:0px">12. Geometria Espacial</h3>
   </summary>
   <section markdown="1">
 
 1. [__Conteúdo__](./conteudo/12-geometria-espacial/)
 
 * [Resumo](./conteudo/resumo-geometria-espacial.ipynb)
+
+---
 
 </section>
 </details>
