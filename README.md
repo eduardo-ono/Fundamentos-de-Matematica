@@ -60,13 +60,15 @@
 
 <details>
   <summary>
-    <h3 style="margin-top:0; margin-bottom:0px">12. Geometria Espacial</h3>
+    <h3 style="margin-top:0; margin-bottom:10px">12. Geometria Espacial</h3>
   </summary>
   <section markdown="1">
 
-1. [__Conteúdo__](./conteudo/12-geometria-espacial/)
+1. [__Cilindros__](./conteudo/12-geometria-espacial/cilindros/)
+1. [__Cone__](./conteudo/12-geometria-espacial/cones/)
+1. [__Esfera__](./conteudo/12-geometria-espacial/esfera/)
 
-* [Resumo](./conteudo/resumo-geometria-espacial.ipynb)
+* [__Resumo__](./conteudo/resumo-geometria-espacial.ipynb)
 
 ---
 
