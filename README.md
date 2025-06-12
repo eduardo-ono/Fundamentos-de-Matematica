@@ -40,7 +40,7 @@
   </section>
 </details>
 
-1. [__Funções__](./conteudo/03-funcoes/)
+3. [__Funções__](./conteudo/03-funcoes/)
 
 1. [__Exponenciais e Logaritmos__](./conteudo/04-exponenciais-e-logaritmos/)
 
@@ -58,9 +58,20 @@
 
 1. [__Geometria Plana__](./conteudo/11-geometria-plana/)
 
-1. [__Geometria Espacial__](./conteudo/12-geometria-espacial/)
+<details>
+  <summary>
+    <h3 style="margin-top:0; margin-bottom:10px">12. Geometria Espacial</h3>
+  </summary>
+  <section markdown="1">
 
-1. [__Geometria Analítica__](./conteudo/13-geometria-analitica/)
+1. [__Conteúdo__](./conteudo/12-geometria-espacial/)
+
+* [Resumo](./conteudo/resumo-geometria-espacial.ipynb)
+
+</section>
+</details>
+
+13. [__Geometria Analítica__](./conteudo/13-geometria-analitica/)
 
 1. [__Estatística Básica__](./conteudo/14-estatistica-basica/)
 
