@@ -3,7 +3,7 @@
 
 &nbsp;
 
-<h1 align="center"><sup>—{ Geometria Espacial }—</sup><br>Exercícios Resolvidos</h1>
+<h1 align="center"><sup>—{ Geometria Espacial :: Esfera }—</sup><br>Exercícios Resolvidos</h1>
 <h4 align="center">Prof. Eduardo Ono</h4>
 <h6 align="center">Atualizado em: 11/06/2025<sup></h6>
 
