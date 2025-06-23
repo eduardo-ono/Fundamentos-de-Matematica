@@ -11,7 +11,7 @@
 
 * [__exr-2023-08-14__](./exercicios-resolvidos/exr-2023-08-14.ipynb). Calcule o volume de água contida no cilindro na posição horizontal de 10 m de comprimento, diâmetro da base igual a 12 m, com nível da água em 9 m.
 
-| ![alt text](image.png) |
+| ![alt text](./exercicios-resolvidos/img/exr-2023-08-14.png) |
 | :-: |
 
 &nbsp;
